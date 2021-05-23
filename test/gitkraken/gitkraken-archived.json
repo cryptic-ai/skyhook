@@ -1,0 +1,13 @@
+{
+  "action": "archived",
+  "board": {
+    "id": "5bf41c0a6567c2000e91a792",
+    "name": "Welcome Board"
+  },
+  "sender": {
+    "name": "Keif",
+    "id": "daec859f-dcd7-40c4-b2d3-6e74ab62426c",
+    "username": "keifwebhook"
+  },
+  "sequence": 11
+}
